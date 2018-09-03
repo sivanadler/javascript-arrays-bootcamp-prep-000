@@ -30,7 +30,7 @@ var accessElementInArray = function (array, index){
 }
 
 var destructivelyRemoveElementFromBeginningOfArray = function (array){
-  destructivelyRemoveElementFromBeginningOfArray = [1, 2, 3]
+  array = [1, 2, 3]
   array.unshift()
   return destructivelyRemoveElementFromBeginningOfArray
 }
