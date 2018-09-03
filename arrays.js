@@ -47,4 +47,6 @@ var destructivelyRemoveElementFromEndOfArray = function (array){
   return destructivelyRemoveElementFromEndOfArray
 }
 
-var 
+var removeElementFromEndOfArray = function (array){
+  
+}
